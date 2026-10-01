@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="RC NEWS" tvg-name="Record News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias", RECORD NEWS 
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI86DycWlHQhLgALF2JghfP6-bGjky-D1rxig6WJj3gA&s=10" group-title="Entretenimento", Band
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBiMmFjZTZmLWRiYjktNGM3Yy1iYmRmLTU3NGNlZmJiNjBiYyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MDgxMzcyNywibmJmIjoxNzkwODEzNzI3LCJleHAiOjE3OTM0MDU3MjcsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjBiMmFjZTZmLWRiYjktNGM3Yy1iYmRmLTU3NGNlZmJiNjBiYyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.Otm2e7w5-O3FEY8qf0qESUCZBw_5BtOD8B_jdKwR2Jw&uid=0b2ace6f-dbb9-4c7c-bbdf-574cefbb60bc&magica=sim
+
+#EXTINF:-1 tvg-id="kids.br" tvg-name="Kids Mais" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOOdhEgb4yryHJCYeO4iQgIp8hsMGKLinMMZy4TpqXg&s=10" group-title="Kids", Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=n751qyr5
+
+#EXTINF:-1 tvg-id="cazétv.br" tvg-name="TV CAZÉ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ed777683fdb619972ae85298a4925b40.webp" group-title="Esporte", TV CAZÉ 
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
